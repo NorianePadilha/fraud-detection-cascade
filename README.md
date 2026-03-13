@@ -130,7 +130,7 @@ The cascade maintains positive savings across all tested scenarios:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/fraud-detection-cascade.git
+git clone https://github.com/NorianePadilha/fraud-detection-cascade.git
 cd fraud-detection-cascade
 
 # Install dependencies
@@ -170,5 +170,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 ## Contact
 
 **Noriane Padilha** | Senior Data Scientist
-- LinkedIn: [your-linkedin-url]
-- Email: [your-email]
+
