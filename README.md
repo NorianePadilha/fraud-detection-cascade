@@ -167,7 +167,4 @@ The framework demonstrates that the gap between ML performance and business valu
 
 MIT License. See [LICENSE](LICENSE) for details.
 
-## Contact
-
-**Noriane Padilha** | Senior Data Scientist
 
